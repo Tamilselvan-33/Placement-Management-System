@@ -1,0 +1,32 @@
+# Java & Maven
+backend/target/
+*.class
+*.jar
+*.war
+*.ear
+.mvn/wrapper/maven-wrapper.jar
+.project
+.classpath
+.settings/
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Node & Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+frontend/.env.production.local
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# Uploads & Runtime storage
+backend/uploads/
+uploads/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
